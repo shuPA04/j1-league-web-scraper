@@ -4,8 +4,8 @@ This project aims to scrape data for players belonging to the Japanese J1 League
 
 The project will produce two Excel files containing the following data:
 
-1. **Player Information**: An Excel file including each player's name, team, birthplace, nationality, height, weight, and previous clubs.
-2. **Playing Time Statistics**: An Excel file containing time spent by each player in the following categories:
+1. **`Player Information`**: An Excel file including each player's name, team, birthplace, nationality, height, weight, and previous clubs.
+2. **`Playing Time Statistics`**: An Excel file containing time spent by each player in the following categories:
  * Time in Last Appearance
  * Time Played in Full Match
  * Time Spent as Reserve
