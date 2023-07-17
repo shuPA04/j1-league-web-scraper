@@ -14,6 +14,6 @@ The project will produce two Excel files containing the following data:
    * `Time until Subbed Off` (途中退場)
    * `Time as Non-squad Member` (メンバー外)
 
-The data will be scraped from 'https://soccer.yahoo.co.jp/jleague/category/j1/teams' and 'http://soccer.phew.homeip.net', parsed, and then stored in the aforementioned Excel files for further analysis.
+The data will be scraped from "https://soccer.yahoo.co.jp/jleague/category/j1/teams" and "http://soccer.phew.homeip.net", parsed, and then stored in the aforementioned Excel files for further analysis.
 
-The scraping scripts (Python) are available in the `notebook` folder.
+The Python scripts used for web scraping are available in the `notebook` folder of this repository.
